@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutomaticRematch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fa6773d6ff7abc81e8af05f97fd55ef11a6f55b")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutomaticRematch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutomaticRematch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
