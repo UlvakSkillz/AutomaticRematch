@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{A76F84AF-10B0-4A47-9C0F-D2D0B8D3B86B}|AutomaticRematch\\AutomaticRematch.csproj|solutionrelative:automaticrematch\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A76F84AF-10B0-4A47-9C0F-D2D0B8D3B86B}|AutomaticRematch\\AutomaticRematch.csproj|c:\\users\\austi\\source\\repos\\automaticrematch\\automaticrematch\\automaticrematch.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A76F84AF-10B0-4A47-9C0F-D2D0B8D3B86B}|AutomaticRematch\\AutomaticRematch.csproj|solutionrelative:automaticrematch\\automaticrematch.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A76F84AF-10B0-4A47-9C0F-D2D0B8D3B86B}|AutomaticRematch\\AutomaticRematch.csproj|c:\\users\\austi\\source\\repos\\automaticrematch\\automaticrematch\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A76F84AF-10B0-4A47-9C0F-D2D0B8D3B86B}|AutomaticRematch\\AutomaticRematch.csproj|solutionrelative:automaticrematch\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +26,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AutomaticRematch.csproj",
+              "DocumentMoniker": "C:\\Users\\austi\\source\\repos\\AutomaticRematch\\AutomaticRematch\\AutomaticRematch.csproj",
+              "RelativeDocumentMoniker": "AutomaticRematch\\AutomaticRematch.csproj",
+              "ToolTip": "C:\\Users\\austi\\source\\repos\\AutomaticRematch\\AutomaticRematch\\AutomaticRematch.csproj",
+              "RelativeToolTip": "AutomaticRematch\\AutomaticRematch.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-31T20:46:15.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\austi\\source\\repos\\AutomaticRematch\\AutomaticRematch\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "AutomaticRematch\\AssemblyInfo.cs",
@@ -38,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AutomaticRematch",
               "DocumentMoniker": "C:\\Users\\austi\\source\\repos\\AutomaticRematch\\AutomaticRematch\\AutomaticRematch.csproj",
               "RelativeDocumentMoniker": "AutomaticRematch\\AutomaticRematch.csproj",
@@ -55,7 +71,7 @@
               "RelativeDocumentMoniker": "AutomaticRematch\\Main.cs",
               "ToolTip": "C:\\Users\\austi\\source\\repos\\AutomaticRematch\\AutomaticRematch\\Main.cs",
               "RelativeToolTip": "AutomaticRematch\\Main.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCEAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowD0AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T20:59:11.653Z",
               "EditorCaption": ""
