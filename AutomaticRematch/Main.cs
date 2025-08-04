@@ -24,7 +24,7 @@ namespace AutomaticRematch
         public static class BuildInfo
         {
             public const string ModName = "AutomaticRematch";
-            public const string ModVersion = "1.1.1";
+            public const string ModVersion = "1.2.0";
             public const string Description = "Automatically Presses Rematch Button if On";
             public const string Author = "UlvakSkillz";
             public const string Company = "";
@@ -77,22 +77,22 @@ namespace AutomaticRematch
             {
                 if (currentScene == "Map0")
                 {
-                    myButton = Calls.GameObjects.Map0.Logic.MatchSlabOne.MatchSlab.SlabBuddyMatchVariant.MatchForm.RePlayButton.InteractionButton.Button.GetGameObject();
+                    myButton = Calls.GameObjects.Map0.Logic.MatchSlabOne.MatchSlab.Slabbuddymatchvariant.MatchForm.Replaybutton.InteractionButton.Button.GetGameObject();
                 }
                 else
                 {
-                    myButton = Calls.GameObjects.Map1.Logic.MatchSlabOne.MatchSlab.SlabBuddyMatchVariant.MatchForm.RePlayButton.InteractionButton.Button.GetGameObject();
+                    myButton = Calls.GameObjects.Map1.Logic.MatchSlabOne.MatchSlab.Slabbuddymatchvariant.MatchForm.Replaybutton.InteractionButton.Button.GetGameObject();
                 }
             }
             else
             {
                 if (currentScene == "Map0")
                 {
-                    myButton = Calls.GameObjects.Map0.Logic.MatchSlabTwo.MatchSlab.SlabBuddyMatchVariant.MatchForm.RePlayButton.InteractionButton.Button.GetGameObject();
+                    myButton = Calls.GameObjects.Map0.Logic.MatchSlabTwo.MatchSlab.Slabbuddymatchvariant.MatchForm.Replaybutton.InteractionButton.Button.GetGameObject();
                 }
                 else
                 {
-                    myButton = Calls.GameObjects.Map1.Logic.MatchSlabTwo.MatchSlab.SlabBuddyMatchVariant.MatchForm.RePlayButton.InteractionButton.Button.GetGameObject();
+                    myButton = Calls.GameObjects.Map1.Logic.MatchSlabTwo.MatchSlab.Slabbuddymatchvariant.MatchForm.Replaybutton.InteractionButton.Button.GetGameObject();
                 }
             }
             yield return new WaitForSeconds(timeToWait);
